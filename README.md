@@ -1,3 +1,4 @@
+#Question and Answers
 1) Which algorithm is faster?
 A) Bucket sort algorithm is faster than quick sort.
 2) Where is the entry point of the application? (The place execution begins - provide the fully qualified class name and method name)
