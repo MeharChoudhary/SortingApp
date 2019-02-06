@@ -15,6 +15,7 @@ A) this.tbsamples.value is track bar values is used to provide scrolling with a 
 A) cboAlg1 is a combox ued to select the different type of sorts in the list
 8) What is this.cboAlg2? Set its SelectedIndex to an integer so that the default is Quick Sort.
 A) cboAlg2 is a combox ued to select the different type of sorts in the list
+
 // 9)Use AppDomain.CurrentDomain.BaseDirectory.ToString() to get the base directory.//
 
 
