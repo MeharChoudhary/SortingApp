@@ -116,7 +116,7 @@
             // 
             // cmdSort
             // 
-            this.cmdSort.BackColor = System.Drawing.Color.Green;
+            this.cmdSort.BackColor = System.Drawing.Color.Blue;
             this.cmdSort.Location = new System.Drawing.Point(344, 257);
             this.cmdSort.Name = "cmdSort";
             this.cmdSort.Size = new System.Drawing.Size(75, 23);
