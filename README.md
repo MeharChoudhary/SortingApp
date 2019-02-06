@@ -22,12 +22,15 @@ A) cboAlg2 is a combox ued to select the different type of sorts in the list
 A) This method stored the each stage of sorting algorithms in pictures.
 
 11) What is this.cmdShuffle?  Call its PerformClick() method before exiting Form1_Load.
+
 A) this.cmdShuffle is a button when it calls performClick() it automatically set the shuffle.
 
 12) What is this.cmdSort?  Change its appearance (e.g. ForeColor or BackColor) to highlight it so users will click it. 
+
 A) this.cmdSort is a button when it calls automatically start sorting.
 
 13) Make at least one other obvious improvement or customization as desired.
+
 A) We have modified formDesigner.cs, we have changed the fore color and back color of cmdsort and cmdshuffle.
 
 
