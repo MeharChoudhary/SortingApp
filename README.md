@@ -17,5 +17,10 @@ A) cboAlg1 is a combox ued to select the different type of sorts in the list
 A) cboAlg2 is a combox ued to select the different type of sorts in the list
 
 // 9)Use AppDomain.CurrentDomain.BaseDirectory.ToString() to get the base directory.//
+10) Create a new method called InitializeOutputFolder() and call it - see the suggested content below. What does this method do? 
+A) This method stored the each stage of sorting algorithms in pictures.
+11) What is this.cmdShuffle?  Call its PerformClick() method before exiting Form1_Load.
+A) this.cmdShuffle is a button when it calls performClick() it automatically set the shuffle.
+
 
 
