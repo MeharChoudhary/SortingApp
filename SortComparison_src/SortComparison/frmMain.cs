@@ -34,7 +34,10 @@ namespace SortComparison
 
         }
         
-      
+      private string InitializeOutputFolder()
+ {
+    return AppDomain.CurrentDomain.BaseDirectory.ToString() + "\\output";
+ }
 
         public void Randomize(IList list)
         {
