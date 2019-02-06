@@ -106,6 +106,8 @@
             // 
             // cmdShuffle
             // 
+            this.cmdShuffle.BackColor = System.Drawing.Color.Gray;
+            this.cmdShuffle.ForeColor = System.Drawing.Color.GreenYellow;
             this.cmdShuffle.Location = new System.Drawing.Point(263, 257);
             this.cmdShuffle.Name = "cmdShuffle";
             this.cmdShuffle.Size = new System.Drawing.Size(75, 23);
@@ -117,6 +119,7 @@
             // cmdSort
             // 
             this.cmdSort.BackColor = System.Drawing.Color.Blue;
+            this.cmdSort.ForeColor = System.Drawing.Color.Gold;
             this.cmdSort.Location = new System.Drawing.Point(344, 257);
             this.cmdSort.Name = "cmdSort";
             this.cmdSort.Size = new System.Drawing.Size(75, 23);
